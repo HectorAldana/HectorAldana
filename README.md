@@ -7,7 +7,7 @@ Guten Morgen, I'm Hector Aldana!
 ```javascript
 const HectorAldana = {
     askMeAbout: ["Data Science", "Software Engineering", "Systems Engineering","Full Stack Development"],
-    technologies: [".NET Core", "T-SQL", "R", "Python"],
+    technologies: [".NET Core", "C#", "T-SQL", "R", "Python"],
     techniques: ["KNN", "Cross-Validation", "Logistic Regression", "Linear Regression", "Decision Trees", "Support Vector Classifiers", "Artificial Neural Networks"],
     currentProject: ["Automated & silent printing of Certificates of Analysis for QA and Customers", "Interfacing Palletizer to SAP via http post w/JSON"],
     funFact: "A day will come when robots will have the right to vote..."
