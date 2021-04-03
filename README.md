@@ -2,7 +2,7 @@ Guten Morgen, I'm Hector Aldana!
 <img align='right' src="https://user-images.githubusercontent.com/48191716/113464872-edc43580-93fd-11eb-8113-8e59b30ab88d.png" width="230">
 <p><em>Software Engineer</em></p>
 
-[Linkedin: hector-aldana](https://www.linkedin.com/in/hector-aldana/)
+[![image](https://user-images.githubusercontent.com/48191716/113465962-eacd4300-9405-11eb-8d57-2ff7aa829bd6.png)](https://www.linkedin.com/in/hector-aldana/)
 
 ```javascript
 const HectorAldana = {
