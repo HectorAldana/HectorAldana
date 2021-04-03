@@ -1,6 +1,6 @@
 Guten Morgen, I'm Hector Aldana! 
 <img align='right' src="https://user-images.githubusercontent.com/48191716/113464872-edc43580-93fd-11eb-8113-8e59b30ab88d.png" width="230">
-<p><em>Software Engineer</em></p>
+<em>SSystems Engineer</em>
 
 [Linkedin: hector-aldana](https://www.linkedin.com/in/hector-aldana/)
 
