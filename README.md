@@ -10,7 +10,7 @@ const HectorAldana = {
     technologies: [".NET Core", "T-SQL", "R", "Python"],
     techniques: ["KNN", "Cross-Validation", "Logistic Regression", "Linear Regression", "Decision Trees", "Support Vector Classifiers", "Artificial Neural Networks"],
     currentProject: ["Automated & silent printing of Certificates of Analysis for QA and Customers", "Interfacing Palletizer to SAP via http post w/JSON"],
-    funFact: "Technology is teaching us to be human again. –S. Mainwaring"
+    funFact: "A day will come when robots will have the right to vote..."
 };
 ```
 
