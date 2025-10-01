@@ -9,7 +9,7 @@ const HectorAldana = {
     askMeAbout: ["Data Science", "Software Engineering", "Systems Engineering","AI"],
     technologies: ["Azure", ".NET Core", "C#", "T-SQL", "R", "Python"],
     techniques: ["Event-driven ingestion","Metadata extraction","Blob lifecycle", "Document translation", "Metadata coalescing", "SAS access", "Multilingual retrieval","Linear Regression", "KNN", "Cross-Validation", "Logistic Regression", "Decision Trees", "Support Vector Classifiers", "Artificial Neural Networks"],
-    currentProject: ["Statistical Process Control", "IoT"],
+    currentProject: ["RAG", "IoT"],
     funFact: "A day will come when robots will have the right to vote..."
 };
 ```
