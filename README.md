@@ -7,9 +7,10 @@ Hi, I'm Hector Aldana!
 ```javascript
 const HectorAldana = {
     askMeAbout: ["Data Science", "Software Engineering", "Systems Engineering","AI"],
-    technologies: [".NET Core", "C#", "T-SQL", "R", "Python"],
-    techniques: ["Linear Regression w/Python", "KNN", "Cross-Validation", "Logistic Regression", "Linear Regression", "Decision Trees", "Support Vector Classifiers", "Artificial Neural Networks"],
-    currentProject: ["Statistical Process Control", "SAP/PLC/Scanner Tumbler"],
+    technologies: ["Azure", ".NET Core", "C#", "T-SQL", "R", "Python"],
+    techniques: [techniques = ["Event-driven ingestion","Metadata extraction","Blob lifecycle", "Document translation", "Metadata coalescing", "Server-side copy", "Failure handling",
+    "SAS access", "Multilingual retrieval","Linear Regression w/Python", "KNN", "Cross-Validation", "Logistic Regression", "Linear Regression", "Decision Trees", "Support Vector Classifiers", "Artificial Neural Networks"],
+    currentProject: ["Statistical Process Control", "IoT"],
     funFact: "A day will come when robots will have the right to vote..."
 };
 ```
