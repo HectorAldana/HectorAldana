@@ -1,4 +1,4 @@
-Guten Morgen, I'm Hector Aldana! 
+Hi, I'm Hector Aldana! 
 <img align='right' src="https://user-images.githubusercontent.com/48191716/113464872-edc43580-93fd-11eb-8113-8e59b30ab88d.png" width="230">
 <p><em>Software Engineer</em></p>
 
@@ -6,7 +6,7 @@ Guten Morgen, I'm Hector Aldana!
 
 ```javascript
 const HectorAldana = {
-    askMeAbout: ["Data Science", "Software Engineering", "Systems Engineering"],
+    askMeAbout: ["Data Science", "Software Engineering", "Systems Engineering","AI"],
     technologies: [".NET Core", "C#", "T-SQL", "R", "Python"],
     techniques: ["Linear Regression w/Python", "KNN", "Cross-Validation", "Logistic Regression", "Linear Regression", "Decision Trees", "Support Vector Classifiers", "Artificial Neural Networks"],
     currentProject: ["Statistical Process Control", "SAP/PLC/Scanner Tumbler"],
